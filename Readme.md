@@ -7,7 +7,7 @@ The model takes image as input, preprocess, does feature extraction and generate
 
 <b>Recommendations</b>
 
-* The working and application can be varied.
+* The application for same concept can be varied.
 
 
 <b>Privacy Statement</b>
